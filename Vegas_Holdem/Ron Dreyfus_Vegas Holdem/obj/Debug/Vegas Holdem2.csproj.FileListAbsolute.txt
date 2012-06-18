@@ -1,0 +1,2 @@
+C:\Ron\VS2010 projects\Vegas Holdem2\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron Dreyfus_Vegas Holdem.exe
+C:\Ron\VS2010 projects\Vegas Holdem2\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron Dreyfus_Vegas Holdem.pdb

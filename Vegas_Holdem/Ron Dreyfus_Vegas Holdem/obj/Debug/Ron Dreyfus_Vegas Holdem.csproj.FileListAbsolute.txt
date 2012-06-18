@@ -1,0 +1,57 @@
+S:\GSP490 - senior project\assignments\Ron Dreyfus_Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron Dreyfus_Vegas Holdem.exe
+S:\GSP490 - senior project\assignments\Ron Dreyfus_Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron Dreyfus_Vegas Holdem.pdb
+S:\GSP490 - senior project\assignments\Ron Dreyfus_Vegas Holdem\Ron Dreyfus_Vegas Holdem\bin\Debug\Ron Dreyfus_Vegas Holdem.exe
+S:\GSP490 - senior project\assignments\Ron Dreyfus_Vegas Holdem\Ron Dreyfus_Vegas Holdem\bin\Debug\Ron Dreyfus_Vegas Holdem.pdb
+S:\GSP490 - senior project\assignments\Ron Dreyfus_Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\ResolveAssemblyReference.cache
+S:\GSP490 - senior project\assignments\Ron Dreyfus_Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron_Dreyfus_Vegas_Holdem.betContinue.resources
+S:\GSP490 - senior project\assignments\Ron Dreyfus_Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron_Dreyfus_Vegas_Holdem.Form1.resources
+S:\GSP490 - senior project\assignments\Ron Dreyfus_Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron_Dreyfus_Vegas_Holdem.Properties.Resources.resources
+S:\GSP490 - senior project\assignments\Ron Dreyfus_Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron Dreyfus_Vegas Holdem.csproj.GenerateResource.Cache
+S:\GSP490 - senior project\assignments\Ron Dreyfus_Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron_Dreyfus_Vegas_Holdem.winResults.resources
+S:\GSP490 - senior project\assignments\Ron Dreyfus_Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron_Dreyfus_Vegas_Holdem.endGame.resources
+S:\GSP490 - senior project\assignments\Ron Dreyfus_Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron_Dreyfus_Vegas_Holdem.EnterTournament.resources
+S:\GSP490 - senior project\assignments\Ron Dreyfus_Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron_Dreyfus_Vegas_Holdem.welcome.resources
+S:\GSP490 - senior project\assignments\Ron Dreyfus_Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron_Dreyfus_Vegas_Holdem.help.resources
+S:\GSP490 - senior project\assignments\Ron Dreyfus_Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron_Dreyfus_Vegas_Holdem.GameWinner.resources
+S:\GSP490 - senior project\assignments\Ron Dreyfus_Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron_Dreyfus_Vegas_Holdem.NextRound.resources
+\\Server1\E$\public\programming projects\Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron Dreyfus_Vegas Holdem.exe
+\\Server1\E$\public\programming projects\Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron Dreyfus_Vegas Holdem.pdb
+\\Server1\E$\public\programming projects\Vegas Holdem\Ron Dreyfus_Vegas Holdem\bin\Debug\Ron Dreyfus_Vegas Holdem.exe
+\\Server1\E$\public\programming projects\Vegas Holdem\Ron Dreyfus_Vegas Holdem\bin\Debug\Ron Dreyfus_Vegas Holdem.pdb
+\\Server1\E$\public\programming projects\Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\ResolveAssemblyReference.cache
+\\Server1\E$\public\programming projects\Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron_Dreyfus_Vegas_Holdem.betContinue.resources
+\\Server1\E$\public\programming projects\Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron_Dreyfus_Vegas_Holdem.endGame.resources
+\\Server1\E$\public\programming projects\Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron_Dreyfus_Vegas_Holdem.EnterTournament.resources
+\\Server1\E$\public\programming projects\Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron_Dreyfus_Vegas_Holdem.Form1.resources
+\\Server1\E$\public\programming projects\Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron_Dreyfus_Vegas_Holdem.help.resources
+\\Server1\E$\public\programming projects\Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron_Dreyfus_Vegas_Holdem.NextRound.resources
+\\Server1\E$\public\programming projects\Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron_Dreyfus_Vegas_Holdem.Properties.Resources.resources
+\\Server1\E$\public\programming projects\Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron_Dreyfus_Vegas_Holdem.welcome.resources
+\\Server1\E$\public\programming projects\Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron_Dreyfus_Vegas_Holdem.GameWinner.resources
+\\Server1\E$\public\programming projects\Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron_Dreyfus_Vegas_Holdem.winResults.resources
+\\Server1\E$\public\programming projects\Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron Dreyfus_Vegas Holdem.csproj.GenerateResource.Cache
+P:\programming projects\Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron Dreyfus_Vegas Holdem.exe
+P:\programming projects\Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron Dreyfus_Vegas Holdem.pdb
+\\Server1\E$\public\programming projects\Projects\Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron Dreyfus_Vegas Holdem.exe
+\\Server1\E$\public\programming projects\Projects\Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron Dreyfus_Vegas Holdem.pdb
+P:\programming projects\Projects\C#\Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron Dreyfus_Vegas Holdem.exe
+P:\programming projects\Projects\C#\Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron Dreyfus_Vegas Holdem.pdb
+P:\programming projects\Projects\C#\Vegas Holdem\Ron Dreyfus_Vegas Holdem\bin\Debug\Ron Dreyfus_Vegas Holdem.exe
+P:\programming projects\Projects\C#\Vegas Holdem\Ron Dreyfus_Vegas Holdem\bin\Debug\Ron Dreyfus_Vegas Holdem.pdb
+P:\programming projects\Projects\C#\Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\ResolveAssemblyReference.cache
+P:\programming projects\Projects\C#\Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron_Dreyfus_Vegas_Holdem.betContinue.resources
+P:\programming projects\Projects\C#\Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron_Dreyfus_Vegas_Holdem.endGame.resources
+P:\programming projects\Projects\C#\Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron_Dreyfus_Vegas_Holdem.EnterTournament.resources
+P:\programming projects\Projects\C#\Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron_Dreyfus_Vegas_Holdem.Form1.resources
+P:\programming projects\Projects\C#\Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron_Dreyfus_Vegas_Holdem.help.resources
+P:\programming projects\Projects\C#\Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron_Dreyfus_Vegas_Holdem.NextRound.resources
+P:\programming projects\Projects\C#\Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron_Dreyfus_Vegas_Holdem.Properties.Resources.resources
+P:\programming projects\Projects\C#\Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron_Dreyfus_Vegas_Holdem.welcome.resources
+P:\programming projects\Projects\C#\Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron_Dreyfus_Vegas_Holdem.GameWinner.resources
+P:\programming projects\Projects\C#\Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron_Dreyfus_Vegas_Holdem.winResults.resources
+P:\programming projects\Projects\C#\Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\ResGen.read.1.tlog
+P:\programming projects\Projects\C#\Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\ResGen.write.1.tlog
+P:\programming projects\Projects\C#\Vegas Holdem2\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron Dreyfus_Vegas Holdem.exe
+P:\programming projects\Projects\C#\Vegas Holdem2\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron Dreyfus_Vegas Holdem.pdb
+C:\Ron\VS2010 projects\Vegas Holdem2\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron Dreyfus_Vegas Holdem.exe
+C:\Ron\VS2010 projects\Vegas Holdem2\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron Dreyfus_Vegas Holdem.pdb

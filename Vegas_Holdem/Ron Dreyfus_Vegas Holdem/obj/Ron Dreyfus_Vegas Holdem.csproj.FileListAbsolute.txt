@@ -1,0 +1,9 @@
+S:\GSP490 - senior project\assignments\Ron Dreyfus_Vegas Holdem\Ron Dreyfus_Vegas Holdem\bin\Debug\Ron Dreyfus_Vegas Holdem.exe
+S:\GSP490 - senior project\assignments\Ron Dreyfus_Vegas Holdem\Ron Dreyfus_Vegas Holdem\bin\Debug\Ron Dreyfus_Vegas Holdem.pdb
+S:\GSP490 - senior project\assignments\Ron Dreyfus_Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\ResolveAssemblyReference.cache
+S:\GSP490 - senior project\assignments\Ron Dreyfus_Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron_Dreyfus_Vegas_Holdem.Properties.Resources.resources
+S:\GSP490 - senior project\assignments\Ron Dreyfus_Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron Dreyfus_Vegas Holdem.csproj.GenerateResource.Cache
+S:\GSP490 - senior project\assignments\Ron Dreyfus_Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron Dreyfus_Vegas Holdem.exe
+S:\GSP490 - senior project\assignments\Ron Dreyfus_Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron Dreyfus_Vegas Holdem.pdb
+S:\GSP490 - senior project\assignments\Ron Dreyfus_Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron_Dreyfus_Vegas_Holdem.Form1.resources
+S:\GSP490 - senior project\assignments\Ron Dreyfus_Vegas Holdem\Ron Dreyfus_Vegas Holdem\obj\Debug\Ron_Dreyfus_Vegas_Holdem.betContinue.resources
